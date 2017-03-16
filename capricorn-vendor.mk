@@ -198,6 +198,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/capricorn/proprietary/lib/modules/mmc_block_test.ko:system/lib/modules/mmc_block_test.ko \
     vendor/xiaomi/capricorn/proprietary/lib/modules/mmc_test.ko:system/lib/modules/mmc_test.ko \
     vendor/xiaomi/capricorn/proprietary/lib/modules/qca_cld/qca_cld_wlan.ko:system/lib/modules/qca_cld/qca_cld_wlan.ko \
+    vendor/xiaomi/capricorn/proprietary/lib/modules/qca_cld/qca_cld_wlan.ko:system/lib/modules/wlan.ko \
     vendor/xiaomi/capricorn/proprietary/lib/modules/rdbg.ko:system/lib/modules/rdbg.ko \
     vendor/xiaomi/capricorn/proprietary/lib/modules/spidev.ko:system/lib/modules/spidev.ko \
     vendor/xiaomi/capricorn/proprietary/lib/modules/test-iosched.ko:system/lib/modules/test-iosched.ko \
