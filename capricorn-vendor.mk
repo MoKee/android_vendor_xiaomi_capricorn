@@ -1,4 +1,4 @@
-# Copyright (C) 2017-2018 The LineageOS Project
+# Copyright (C) 2017-2019 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -43,7 +43,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/capricorn/proprietary/vendor/firmware/a530_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_zap.b02 \
     vendor/xiaomi/capricorn/proprietary/vendor/firmware/a530_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_zap.elf \
     vendor/xiaomi/capricorn/proprietary/vendor/firmware/a530_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_zap.mdt \
-    vendor/xiaomi/capricorn/proprietary/vendor/firmware/libpn548ad_fw.so:$(TARGET_COPY_OUT_VENDOR)/firmware/libpn548ad_fw.so \
+    vendor/xiaomi/capricorn/proprietary/vendor/lib/libpn548ad_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpn548ad_fw.so \
     vendor/xiaomi/capricorn/proprietary/vendor/lib/libSonyIMX378PdafLibrary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSonyIMX378PdafLibrary.so \
     vendor/xiaomi/capricorn/proprietary/vendor/lib/libactuator_ak7371_a7_liteon.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_ak7371_a7_liteon.so \
     vendor/xiaomi/capricorn/proprietary/vendor/lib/libactuator_ak7371_a7_semco.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_ak7371_a7_semco.so \
